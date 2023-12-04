@@ -1,0 +1,16 @@
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.csprojAssemblyReference.cache
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.AssemblyInfoInputs.cache
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.AssemblyInfo.cs
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\bin\Debug\net5.0\Day_1.exe
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\bin\Debug\net5.0\Day_1.deps.json
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\bin\Debug\net5.0\Day_1.runtimeconfig.json
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\bin\Debug\net5.0\Day_1.runtimeconfig.dev.json
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\bin\Debug\net5.0\Day_1.dll
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\bin\Debug\net5.0\ref\Day_1.dll
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\bin\Debug\net5.0\Day_1.pdb
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.dll
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\ref\Day_1.dll
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.pdb
+C:\Users\Peter\Documents\Advent of Code\2023\Day_1\obj\Debug\net5.0\Day_1.genruntimeconfig.cache
