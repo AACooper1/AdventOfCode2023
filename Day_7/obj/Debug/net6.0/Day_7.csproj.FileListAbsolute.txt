@@ -1,0 +1,15 @@
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.csproj.AssemblyReference.cache
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.AssemblyInfoInputs.cache
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.AssemblyInfo.cs
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\bin\Debug\net6.0\Day_7.exe
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\bin\Debug\net6.0\Day_7.deps.json
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\bin\Debug\net6.0\Day_7.runtimeconfig.json
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\bin\Debug\net6.0\Day_7.dll
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\bin\Debug\net6.0\Day_7.pdb
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.dll
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\refint\Day_7.dll
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.pdb
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\Day_7.genruntimeconfig.cache
+C:\Users\Peter\Documents\Advent of Code\2023\Day_7\obj\Debug\net6.0\ref\Day_7.dll
